@@ -1,6 +1,6 @@
 # Portfolio
 ### About me
-I'm Jamila Rustamli, a Manual QA Tester with a secondary background in Project Manager, which allows me to have a full understanding of software development and quality assurance. I have 6 months of experience in web application testing and 3 months in mobile application testing, where I've been specializing in writing clear and effective test cases, conducting exploratory, regression, and smoke testing, and reporting defects in Jira. I also use Excel for tracking and Postman for basic API testing.
+I'm Jamila Rustamli, a Project Manager  with a secondary background in QA Manual, which allows me to have a full understanding of software development and quality assurance. I have 6 months of experience in web application testing and 3 months in mobile application testing, where I've been specializing in writing clear and effective test cases, conducting exploratory, regression, and smoke testing, and reporting defects in Jira. I also use Excel for tracking and Postman for basic API testing.
 
 In addition to my QA work, I have hands-on experience in project management, such as creating and updating user stories, product backlog grooming, and cross-functional team coordination for timely delivery. My dual skill set allows me to visualize both the technical and organizational sides of software projects, resulting in better planning, more accurate requirements, and higher quality deliverables.
 
