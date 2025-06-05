@@ -14,15 +14,52 @@ I strive to deliver stable, user-friendly software solutions and constantly grow
 I began working as a **Project Manager**, where I directed software development projects and collaborated with cross-functional teams to produce quality digital products. Over time, I expanded my role to both **manual and automation QA testing**, allowing me to contribute more comprehensively to product quality and team productivity. I also carried out a **freelance project** in the **real estate industry**, performing a combination of project management tasks and hands-on testing. This blend of experience has given me a profound understanding of the technical as well as the strategic sides of product development.
 
 ### Tools
-[Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/en) - project management
-[Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-[qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
-[Slack](https://slack.com/) - communication within the team
-[Chrome Devtools](https://developer.chrome.com/docs/devtools?hl=ru) - for better testing and improving bug reports
-[Google Drive](https://drive.google.com/drive/my-drive) - storing data
-[Git](https://git-scm.com/) - for better work in development team and controlling software versions
-[GitHub](https://github.com/) - supporting Git and preparing my repositories
-[Markdown](https://www.markdownguide.org/) - for better and easy formatting GitHub
-[Postman](https://www.postman.com/) - API testing
-[Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-[Selenium](https://www.selenium.dev/)
+- [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/en) - project management
+- [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
+- [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
+- [Slack](https://slack.com/) - communication within the team
+- [Chrome Devtools](https://developer.chrome.com/docs/devtools?hl=ru) - for better testing and improving bug reports
+- [Google Drive](https://drive.google.com/drive/my-drive) - storing data
+- [Git](https://git-scm.com/) - for better work in development team and controlling software versions
+- [GitHub](https://github.com/) - supporting Git and preparing my repositories
+- [Markdown](https://www.markdownguide.org/) - for better and easy formatting GitHub
+- [Postman](https://www.postman.com/) - API testing
+- [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+- [Selenium](https://www.selenium.dev/)
+
+### Tech skills
+#### Project & Process Management
+- Agile/Scrum
+- User story
+- Backlog management
+- Sprint Planning
+#### Testing & QA
+- Bug Reporting
+- Manual Testing
+- Explorarty Testing
+- Smoke Testing
+- Black-box testing
+- White-box testing
+- Gray-box testing
+- Regression testing
+- REST API testing
+- Creating test cases
+- Creating documentation
+#### Techincal Skills
+- SQl
+- Python
+- HTML/CSS
+
+### Soft skills
+- Strong Communication
+- Problem-Solving
+- Attention to Detail
+- Critical Thinking
+- Team Collaboration
+- Time Management
+- Adaptability
+- Proactive Attitude
+- Analytical Thinking
+- Multitasking
+- Conflict Resolution
+- Continuous Learning
