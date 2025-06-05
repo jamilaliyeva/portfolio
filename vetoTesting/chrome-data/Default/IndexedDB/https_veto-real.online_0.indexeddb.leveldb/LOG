@@ -1,0 +1,14 @@
+2024/08/13-11:59:58.276 8703 Reusing MANIFEST /Users/jamilaaliyeva/Developer/vetoTesting/chrome-data/Default/IndexedDB/https_veto-real.online_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/13-11:59:58.276 8703 Recovering log #21
+2024/08/13-11:59:58.276 8703 Reusing old log /Users/jamilaaliyeva/Developer/vetoTesting/chrome-data/Default/IndexedDB/https_veto-real.online_0.indexeddb.leveldb/000021.log 
+2024/08/13-11:59:58.277 8703 Delete type=2 #19
+2024/08/13-11:59:58.293 8703 Level-0 table #26: started
+2024/08/13-11:59:58.296 8703 Level-0 table #26: 3318 bytes OK
+2024/08/13-11:59:58.299 8703 Delete type=0 #21
+2024/08/13-11:59:58.299 8407 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 483 : 1
+2024/08/13-11:59:58.299 8407 Compacting 1@0 + 1@1 files
+2024/08/13-11:59:58.302 8407 Generated table #27@0: 36 keys, 2747 bytes
+2024/08/13-11:59:58.302 8407 Compacted 1@0 + 1@1 files => 2747 bytes
+2024/08/13-11:59:58.306 8407 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-11:59:58.306 8407 Delete type=2 #26
+2024/08/13-11:59:58.307 8407 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 483 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
