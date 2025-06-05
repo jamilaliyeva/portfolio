@@ -63,3 +63,6 @@ I began working as a **Project Manager**, where I directed software development 
 - Multitasking
 - Conflict Resolution
 - Continuous Learning
+
+### Samples
+[QA Projects](https://drive.google.com/drive/folders/1eauY_HbNJBYnYuudmGctgAa6bSd7e_-H?usp=sharing)
